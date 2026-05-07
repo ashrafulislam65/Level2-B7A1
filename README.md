@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 `README.md` (Optional but Recommended)
+## `README.md` 
 
 ```md
 # B7A1 – Advanced Problem Solving with TypeScript & OOP
